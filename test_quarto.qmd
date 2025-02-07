@@ -1,7 +1,7 @@
 ---
 title: "test_quarto"
 author: "Tyler"
-format: html
+format: gfm
 ---
 
 ## Quarto
